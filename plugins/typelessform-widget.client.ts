@@ -1,4 +1,6 @@
 // .client.ts suffix ensures this only runs on client (no SSR)
+import 'typelessform-widget';
+
 export default defineNuxtPlugin(() => {
-  import('typelessform-widget');
+  // widget auto-registers <typeless-form> custom element on import
 });
