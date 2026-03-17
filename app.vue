@@ -1,6 +1,6 @@
 <template>
   <div>
     <NuxtPage />
-    <typeless-form api-key="tf_WCpZrkmRYlZDYJr1_FpwZqQUV-p4s6lh" />
+    <typeless-form api-key="tf_yc9q1FZsC4Mzz0IBzuWt_9ezD_qil__n" />
   </div>
 </template>
