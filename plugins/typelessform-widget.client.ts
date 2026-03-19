@@ -2,5 +2,5 @@
 import 'typelessform-widget';
 
 export default defineNuxtPlugin(() => {
-  // widget auto-registers <typeless-form> custom element on import
+  // this widget auto-registers <typeless-form> custom element on import
 });
